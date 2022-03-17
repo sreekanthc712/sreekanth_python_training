@@ -15,3 +15,5 @@
 # element = "how"
 # if element in list_:
 #     print("the element {} is present in collection {}".format(element,list_))
+import os
+print(getcwd())
